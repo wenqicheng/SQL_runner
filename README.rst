@@ -5,7 +5,7 @@ SQL_runner is a Python library providing PostgreSQL adaptors and QA tools. It su
 
 Declaration
 -----
-This Python package SQL_runner was developed by Wenqi Cheng at comScore. This Gitpub repository is only used to show how this package can be used. Because of business confidentiality, no python scrips of this package are provided here. Connect Wenqi if you have more question by wenqichengwork@gmail.com. Thanks!
+This Python package SQL_runner was developed by Wenqi Cheng at comScore. This Gitpub repository is only used to show how this package can be used. Because of business confidentiality, no python scrips of this package are provided here. Connect Wenqi if you have more questions by wenqichengwork@gmail.com. Thanks!
 
 Links
 -----
