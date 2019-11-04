@@ -1,11 +1,11 @@
 python-SQL_runner - a new way to run sql
 ======================================
 
-SQL_runner is a Python library providing PostgreSQL adaptors and QA tools. It supports for parsing, splitting, formatting SQL scripts as well as builidng QA tools for either customized or recurring projects.
+SQL_runner is a Python library providing adaptors to multiple data data environments, including Greenplum, SQL Server, Redshift, Snowflake, etc. It supports for parsing, splitting, formatting SQL scripts as well as builidng QA tools for both custom and recurring projects.
 
 Declaration
 -----
-This Python package SQL_runner was developed by Wenqi Cheng at comScore. This Gitpub repository is only used to show how this package can be used. Because of business confidentiality, no python scrips of this package are provided here. Connect Wenqi if you have more questions by wenqichengwork@gmail.com. Thanks!
+This Python package SQL_runner was developed by Wenqi Cheng at comScore. This Gitpub repository is only used to show how this package can be used. Because of business confidentiality, no original Python Code of this package are provided here. Connect Wenqi if you have more questions by wenqichengwork@gmail.com. Thanks!
 
 Links
 -----
