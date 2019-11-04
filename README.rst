@@ -1,7 +1,7 @@
-python-SQL_runner - a new way to run sql
+Python-SQL_runner - Aggregated Platform for Multi-Data Environments
 ======================================
 
-SQL_runner is a Python library providing adaptors to multiple data data environments, including Greenplum, SQL Server, Redshift, Snowflake, etc. It supports for parsing, splitting, formatting SQL scripts as well as builidng QA tools for both custom and recurring projects.
+SQL_runner is a Python library providing adaptors to multiple data data environments, including Greenplum, SQL Server, Redshift, Snowflake, etc.. It supports for parsing, splitting, formatting SQL scripts as well as builidng QA tools for both custom and recurring projects.
 
 Declaration
 -----
@@ -11,7 +11,7 @@ Links
 -----
 
 Demostration
-  https://github.com/wenqicheng/SQL_runner/blob/master/Python%20Package%20SQL_runner(a%20new%20way%20to%20run%20sql)%20Developed%20by%20Wenqi.ipynb
+  https://github.com/wenqicheng/SQL_runner/blob/master/Python%20Package%20SQL_runner%20Developed%20by%20Wenqi.ipynb
 
 If the link above doesn't work
-  https://nbviewer.jupyter.org/github/wenqicheng/SQL_runner/blob/master/Python%20Package%20SQL_runner%28a%20new%20way%20to%20run%20sql%29%20Developed%20by%20Wenqi.ipynb
+  https://nbviewer.jupyter.org/github/wenqicheng/SQL_runner/blob/master/Python%20Package%20SQL_runner%20Developed%20by%20Wenqi.ipynb
